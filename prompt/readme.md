@@ -7,7 +7,7 @@ We will provide you with the following information:
 - The user's historical interactions in the format [Book NAME, RATING], where a RATING greater than 4 indicates a like, and a RATING of 4 or less indicates a dislike.
 - The target book's name.
 
-<User \History>{}</User History>
+\<User History\>{}</User History\>
 
 <Target Book Name>{}</Target Book Name>
 
