@@ -1,4 +1,5 @@
-# R4ec
+![# R4ec](inference_refimenent.pdf)
+
 Code for $R^{4}$ec: a \underline{R}easoning,\underline{R}eflection, and \underline{R}efinement framework for \underline{R}ecommendation Systems
 
 ### step 1: preprocess dataset
