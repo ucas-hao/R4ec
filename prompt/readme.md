@@ -9,7 +9,7 @@ We will provide you with the following information:
 
 \<User History\>{}</User History\>
 
-<Target Book Name>{}</Target Book Name>
+\<Target Book Name\>{}</Target Book Name\>
 
 Please strictly follow the following format:
 <User Preference>[Summarize user preference on books in 200 words. Do not include any information about target book please. You should think step by step.]</User Preference>
