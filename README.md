@@ -41,3 +41,14 @@ CUDA_VISIBLE_DEVICES=0 llamafactory-cli train examples/train_lora/amz_user_refin
 ```
 then you can get the final refined preference.
 amz_user_thinking_infer.yaml, amz_user_reflect_infer.yaml, and amz_user_refine_infer.yaml can be found in `utils`
+the amz item factual knowledge can be obtained in the same way.
+
+#### step 4 knowledge embedding
+you can run `python rec/knowledge_bge.py` to get the knowledge embedding.
+
+#### step 5 run ctr task
+```bash
+python rec/run_ctr_amz_autoint.py 
+```
+you can replace the model in `rec/run_ctr_amz_autoint.py` to get different backbone models.
+we support autoint, dcn ,deepfm, dien, din, gru4rec, fignn, xdeepfm.
