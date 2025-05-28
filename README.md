@@ -1,3 +1,8 @@
+### We sincerely thank all reviewers for their valuable feedback and encouraging comments.
+
+### For rebuttal, please refer recsys_rebuttal_final.pdf
+### For Reviewer1, a brief proof can refer proof.pdf
+### For Reviewer2, a example can refer example.pdf
 ![# R4ec](inference_refimenent.png)
 
 Code for $R^{4}$ec: a \underline{R}easoning,\underline{R}eflection, and \underline{R}efinement framework for \underline{R}ecommendation Systems
